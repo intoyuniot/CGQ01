@@ -1,0 +1,17 @@
+{
+    "name": "CGQ01",
+    "version": "1.0.0",
+    "keywords": "CGQ01",
+    "description": "CGQ01甲醛传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/CGQ01.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
